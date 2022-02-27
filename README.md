@@ -5,4 +5,5 @@ L-Mile (LastMile) is last mile delivery system for b2c interactions and optimiza
 ## Dependencies:
 
 streamlit
+
 opencv-python
