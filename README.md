@@ -7,3 +7,5 @@ L-Mile (LastMile) is last mile delivery system for b2c interactions and optimiza
 streamlit
 
 opencv-python
+
+google-cloud-vision
