@@ -38,5 +38,5 @@ st.write('We have our picture')
 text2 = response2.text_annotations[0].description
 st.write(text2)
 
-if text == text2:
+if text != text2:
     st.write('The products are different, wanna raise a concern')
